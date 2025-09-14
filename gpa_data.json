@@ -1,0 +1,20 @@
+[
+    {
+        "name": "aa",
+        "grade": "A",
+        "credits": 3.0,
+        "points": 4.0
+    },
+    {
+        "name": "asdfgh",
+        "grade": "B",
+        "credits": 1.0,
+        "points": 3.0
+    },
+    {
+        "name": "bb",
+        "grade": "B",
+        "credits": 5.0,
+        "points": 3.0
+    }
+]

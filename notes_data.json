@@ -1,0 +1,100 @@
+{
+    "folders": {
+        "General": [],
+        "New folder": [
+            {
+                "title": "New note",
+                "content": "",
+                "tags": [],
+                "images": [],
+                "links": [],
+                "created": "2025-09-10 16:59",
+                "last_modified": "2025-09-10 16:59"
+            }
+        ],
+        "Python": [
+            {
+                "title": "assignment",
+                "content": "Done\n\n",
+                "tags": [],
+                "images": [],
+                "links": [],
+                "created": "2025-09-10 17:00",
+                "last_modified": "2025-09-12 20:33",
+                "formats": []
+            },
+            {
+                "title": "aassiiggnnmmeenntt",
+                "content": "",
+                "tags": [],
+                "images": [],
+                "links": [],
+                "created": "2025-09-12 21:41",
+                "last_modified": "2025-09-12 21:41"
+            }
+        ],
+        "huhu": [
+            {
+                "title": "huhu",
+                "content": "hguuugu\n\njhkjj\n\njijij",
+                "tags": [
+                    "Work"
+                ],
+                "images": [
+                    "img_1"
+                ],
+                "links": [
+                    "https://whatsapp.com"
+                ],
+                "created": "2025-09-13 17:16",
+                "last_modified": "2025-09-13 17:18",
+                "formats": [
+                    {
+                        "tag": "italic",
+                        "start": 9,
+                        "end": 14
+                    }
+                ]
+            }
+        ],
+        "hirjifr": [
+            {
+                "title": "jifrjiff",
+                "content": "jofjofkof\ndifjiejeid\nedijedj\n\\\n\\",
+                "tags": [],
+                "images": [
+                    "img_2"
+                ],
+                "links": [],
+                "created": "2025-09-13 17:24",
+                "last_modified": "2025-09-13 17:47",
+                "formats": [
+                    {
+                        "tag": "bold",
+                        "start": 0,
+                        "end": 10
+                    },
+                    {
+                        "tag": "italic",
+                        "start": 10,
+                        "end": 21
+                    },
+                    {
+                        "tag": "bold_italic",
+                        "start": 21,
+                        "end": 28
+                    }
+                ]
+            }
+        ]
+    },
+    "tags": [
+        "Important",
+        "Work",
+        "Personal"
+    ],
+    "images": {
+        "img_1": "notes_images\\img_20250913_171654_Screenshot 2024-12-03 001304.png",
+        "img_2": "notes_images\\img_20250913_172438_Screenshot 2024-12-03 001304.png"
+    }
+}
